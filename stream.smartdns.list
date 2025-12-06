@@ -255,6 +255,7 @@ nameserver /if.lemino.docomo.ne.jp/<replace with groupname>
 nameserver /rakuten.co.jp/<replace with groupname>
 # > Games
 nameserver /cygames.jp/<replace with groupname>
+nameserver /api.games.umamusume.jp/<replace with groupname>
 nameserver /konosubafd.jp/<replace with groupname>
 nameserver /colorfulpalette.org/<replace with groupname>
 nameserver /worldflipper.jp/<replace with groupname>
@@ -918,6 +919,7 @@ nameserver /suike.cn/<replace with groupname>
 nameserver /soku.com/<replace with groupname>
 nameserver /youku.com/<replace with groupname>
 nameserver /ykimg.com/<replace with groupname>
+
 
 
 

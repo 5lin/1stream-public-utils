@@ -102,7 +102,7 @@ server_name .if.lemino.docomo.ne.jp;
 # > Rakuten TV JP
 server_name .rakuten.co.jp;
 # > Games
-server_name .cygames.jp .konosubafd.jp .colorfulpalette.org .worldflipper.jp .jujutsuphanpara.jp;
+server_name .cygames.jp .api.games.umamusume.jp .konosubafd.jp .colorfulpalette.org .worldflipper.jp .jujutsuphanpara.jp;
 # > Mora
 server_name .mora.jp;
 # > Music.jp
@@ -390,6 +390,7 @@ server_name .music.163.com .music.126.net;
 server_name .71.am .71.am.com .71edge.com .71edge.net .aianno.cn .aianno.com .aiqiyicloud-mgmt.com .aiqiyicloud.com .aiqiyicloud.net .baiying.com .gitv.cn .gitv.tv .ibkstore.com .iq.com .iqiyi.com .iqiyi.demo.uwp .iqiyiedge.com .iqiyiedge.net .iqiyipic.com .jiangbing.cn .pps.tv .ppsimg.com .ppstream.cn .ppstream.com .ppstream.com.cn .ppstream.net .ppstream.net.cn .ppsurl.com .qiyi.cn .qiyi.com .qiyipic.com .qy.com .qy.net .suike.cn;
 # > Youku
 server_name .soku.com .youku.com .ykimg.com;
+
 
 
 

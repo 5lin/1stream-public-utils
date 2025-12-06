@@ -255,6 +255,7 @@
 "domain:rakuten.co.jp",
 # > Games
 "domain:cygames.jp",
+"domain:api.games.umamusume.jp",
 "domain:konosubafd.jp",
 "domain:colorfulpalette.org",
 "domain:worldflipper.jp",
@@ -918,6 +919,7 @@
 "domain:soku.com",
 "domain:youku.com",
 "domain:ykimg.com",
+
 
 
 
